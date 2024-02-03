@@ -9,9 +9,13 @@ import Lab5_Bai2 from "./src/screens/Lab5_Bai2";
 import Lab5_Bai3 from "./src/screens/Lab5_Bai3";
 import Lab6_Bai1 from "./src/screens/Lab6_Bai1";
 import Lab6_Bai2 from "./src/screens/Lab6_Bai2";
+import Lab7_Bai1 from "./src/screens/Lab7_Bai1";
+import Lab7_Bai2 from "./src/screens/Lab7_Bai2";
+import Lab7_Bai3 from "./src/screens/Lab7_Bai3";
+
 const App = () => {
   return (
-  <Lab6_Bai2></Lab6_Bai2>
-);
+  <Lab7_Bai3></Lab7_Bai3>
+  );
 };
 export default App;
