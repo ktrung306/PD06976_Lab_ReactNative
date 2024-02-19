@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Nguyen Khac Trung",
+      "birthday": "30-06-2002",
+      "id": "1"
+    },
+    {
+      "name": "Le Anh tu",
+      "birthday": "26-04-1999",
+      "id": "2"
+    },
+    {
+      "name": "Bui Thu Ha",
+      "birthday": "10-12-2002",
+      "id": "1878"
+    }
+  ]
+}
